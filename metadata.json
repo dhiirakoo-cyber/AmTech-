@@ -1,0 +1,6 @@
+{
+  "name": "Amoo Academy",
+  "description": "Premium bilingual educational platform in English and Afaan Oromo with Bento Grid UI and Gemini AI Tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
